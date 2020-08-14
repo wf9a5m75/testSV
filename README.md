@@ -15,6 +15,8 @@ https://github.com/wf9a5m75/testSV/blob/master/app/build.gradle#L33
 
 ## Crash log
 
+This error occurs at https://github.com/wf9a5m75/testSV/blob/master/app/src/main/java/com/example/myapplication/MainActivity.java#L48
+
 ```
 E/AndroidRuntime: FATAL EXCEPTION: GLThread 10717
     Process: com.example.myapplication, PID: 4825
