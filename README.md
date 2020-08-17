@@ -4,7 +4,7 @@
 
 1. `git clone https://github.com/wf9a5m75/testSV`
 
-2. Opens it with Android Studio, and change the API key in `src/app/AndroidManifest.xml`
+2. Opens it with Android Studio, and change the API key in [AndroidManifest.xml](https://github.com/wf9a5m75/testSV/blob/master/app/src/main/AndroidManifest.xml#L23)
 
 3. Runs it (and the app will be crashed)
 
